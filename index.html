@@ -1,29 +1,236 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Emerson Camargo - Portfólio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 40px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1 {
-      color: #007acc;
-    }
-    p {
-      font-size: 18px;
-    }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emerson Camargo | Portfólio</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <h1>Olá! Eu sou Emerson Camargo</h1>
-  <p>👨‍💻 Estudante de Desenvolvimento de Sistemas na ETEC</p>
-  <p>🛠️ Tecnologias: HTML | CSS | JavaScript | Git</p>
-  <p>📁 Em breve, meus projetos estarão disponíveis aqui!</p>
+
+<header class="navbar">
+  <div class="container nav-content">
+    <a href="#" class="logo">Emerson<span>.dev</span></a>
+
+    <nav>
+      <ul class="nav-links">
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#projetos">Projetos</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-text reveal">
+      <span class="tag">Portfólio Profissional</span>
+      <h1>Olá, eu sou <span>Emerson Camargo</span></h1>
+      <p>
+        Técnico em Desenvolvimento de Sistemas e desenvolvedor Front-End,
+        criando interfaces modernas e responsivas com HTML, CSS e JavaScript.
+      </p>
+
+      <div class="hero-buttons">
+        <a href="#projetos" class="btn btn-primary">Ver projetos</a>
+        <a href="https://github.com/emersonedson07" target="_blank" class="btn btn-secondary">GitHub</a>
+      </div>
+
+      <div class="hero-badges">
+        <span class="badge">HTML</span>
+        <span class="badge">CSS</span>
+        <span class="badge">JavaScript</span>
+        <span class="badge">Python</span>
+        <span class="badge">Java</span>
+        <span class="badge">SQL</span>
+      </div>
+    </div>
+
+    <div class="hero-card reveal">
+      <div class="code-box">
+        <div class="code-line"><span>const</span> dev = &#123;</div>
+        <div class="code-line">&nbsp;&nbsp;nome: <span>"Emerson Camargo"</span>,</div>
+        <div class="code-line">&nbsp;&nbsp;cargo: <span>"Front-End Developer"</span>,</div>
+        <div class="code-line">&nbsp;&nbsp;stack: [<span>"HTML"</span>, <span>"CSS"</span>, <span>"JavaScript"</span>]</div>
+        <div class="code-line">&#125;;</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="sobre" class="section">
+  <div class="container">
+    <h2 class="section-title reveal">Sobre mim</h2>
+
+    <div class="about-grid">
+      <div class="card reveal">
+        <h3>Quem sou</h3>
+        <p>
+          Técnico em Desenvolvimento de Sistemas com foco em desenvolvimento web.
+          Busco criar interfaces modernas, organizadas e funcionais.
+        </p>
+      </div>
+
+      <div class="card reveal">
+        <h3>Habilidades</h3>
+        <div class="skills">
+          <span>HTML5</span>
+          <span>CSS3</span>
+          <span>JavaScript</span>
+          <span>Git</span>
+          <span>GitHub</span>
+          <span>Python</span>
+          <span>Java</span>
+          <span>SQL</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="projetos" class="section">
+  <div class="container">
+    <h2 class="section-title reveal">Projetos</h2>
+
+    <div class="projects-grid">
+
+  
+      <article class="project-card reveal">
+        <div class="project-top">
+          <h3>Pokédex</h3>
+        </div>
+        <div class="project-body">
+          <p>Aplicação com consumo de API</p>
+          <div class="project-links">
+            <a href="https://emersonedson07.github.io/pokedex" target="_blank" class="small-btn">🌐 Ver site</a>
+            <a href="https://github.com/emersonedson07/pokedex" target="_blank" class="small-btn">💻 GitHub</a>
+          </div>
+        </div>
+      </article>
+
+  
+      <article class="project-card reveal">
+        <div class="project-top">
+          <h3>Loja Virtual</h3>
+        </div>
+        <div class="project-body">
+          <p>Projeto de e-commerce</p>
+          <div class="project-links">
+            <a href="https://emersonedson07.github.io/loja-virtual/" target="_blank" class="small-btn">🌐 Ver site</a>
+            <a href="https://github.com/emersonedson07/loja-virtual" target="_blank" class="small-btn">💻 GitHub</a>
+          </div>
+        </div>
+      </article>
+
+  
+      <article class="project-card reveal">
+        <div class="project-top">
+          <h3>Escola de Dança</h3>
+        </div>
+        <div class="project-body">
+          <p>Site institucional responsivo</p>
+          <div class="project-links">
+            <a href="https://emersonedson07.github.io/escola-de-danca" target="_blank" class="small-btn">🌐 Ver site</a>
+            <a href="https://github.com/emersonedson07/escola-de-danca" target="_blank" class="small-btn">💻 GitHub</a>
+          </div>
+        </div>
+      </article>
+
+     
+      <article class="project-card reveal">
+        <div class="project-top">
+          <h3>ImobiTech</h3>
+        </div>
+        <div class="project-body">
+          <p>
+            Sistema imobiliário completo desenvolvido com PHP e MySQL,
+            incluindo autenticação, páginas dinâmicas e estrutura profissional.
+          </p>
+
+          <div class="project-tags">
+            <span>PHP</span>
+            <span>MySQL</span>
+            <span>HTML</span>
+            <span>CSS</span>
+          </div>
+
+          <div class="project-links">
+            <a href="https://github.com/emersonedson07/imobitech" target="_blank" class="small-btn">
+              💻 GitHub
+            </a>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<section id="contato" class="section">
+  <div class="container">
+    <h2 class="section-title reveal">Contato</h2>
+
+    <div class="contact-box card reveal">
+      <p>
+        Estou disponível para oportunidades como desenvolvedor Front-End.
+        Vamos conversar!
+      </p>
+
+      <div class="contact-links">
+
+        <a class="contact-link" href="mailto:emerson.edson07@gmail.com">
+          📧 E-mail
+        </a>
+
+        <a class="contact-link" href="https://wa.me/5514996751963?text=Olá%20Emerson,%20vi%20seu%20portfólio%20e%20gostaria%20de%20falar%20com%20você" target="_blank">
+          📱 WhatsApp
+        </a>
+
+        <a class="contact-link" href="https://github.com/emersonedson07" target="_blank">
+          💻 GitHub
+        </a>
+
+        <a class="contact-link" href="https://www.linkedin.com/in/emersonedsoncamargo/" target="_blank">
+          🔗 LinkedIn
+        </a>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <p>© 2026 Emerson Camargo</p>
+</footer>
+
+<script>
+  const reveals = document.querySelectorAll(".reveal");
+
+  function showOnScroll() {
+    const triggerBottom = window.innerHeight * 0.88;
+
+    reveals.forEach((element) => {
+      const top = element.getBoundingClientRect().top;
+
+      if (top < triggerBottom) {
+        element.classList.add("show");
+      }
+    });
+  }
+
+  window.addEventListener("scroll", showOnScroll);
+  window.addEventListener("load", showOnScroll);
+</script>
+
 </body>
 </html>

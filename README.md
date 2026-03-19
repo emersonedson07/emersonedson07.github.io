@@ -1,58 +1,99 @@
-# 💼 Portfólio Pessoal – Emerson Edson Camargo
+# 🚀 Emerson Edson Camargo  
+### Desenvolvedor Front-End
 
-Bem-vindo ao meu portfólio pessoal! Este repositório apresenta uma coleção dos meus projetos desenvolvidos durante o curso Técnico em Desenvolvimento de Sistemas na ETEC, com foco em Front-End, mas também explorando outras áreas como Python, Java e Banco de Dados.
+<p align="center">
+  <a href="https://emersonedson07.github.io/">
+    <img src="https://img.shields.io/badge/🌐 Portfólio Online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emersonedsoncamargo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:emerson.edson07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre
 
-Sou Emerson Camargo, estudante apaixonado por tecnologia, design e desenvolvimento web. Sempre buscando aprender com projetos práticos e desafios que envolvam criatividade e lógica. Atuo principalmente com HTML, CSS, JavaScript e Git, explorando também linguagens como Java e Python.
+Desenvolvedor Front-End com formação técnica em Desenvolvimento de Sistemas pela ETEC.
+
+Experiência na criação de interfaces modernas, responsivas e funcionais, utilizando tecnologias web e boas práticas de desenvolvimento.
+
+Também possuo conhecimentos em back-end e banco de dados, permitindo uma visão completa do desenvolvimento de sistemas.
 
 📍 Bauru – SP  
-📧 emerson.edson07@gmail.com
 
 ---
 
-## 🚀 Tecnologias que domino ou estou aprendendo
+## 🧠 Stack Tecnológica
 
-- HTML5 / CSS3 / JavaScript  
-- Git e GitHub  
-- Python / Java / SQL / MAQL  
-- Figma (protótipos e UI)  
-- VS Code / Eclipse / Terminal
+### 💻 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### ⚙️ Back-End & Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 🌐 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Museu Digital](https://github.com/emersonedson07/museu-digital) | Exposição virtual sobre a evolução dos videogames | HTML, CSS, JS |
-| [Escola de Dança](https://github.com/emersonedson07/escola-de-danca) | Site institucional de escola fictícia de dança | HTML, CSS |
-| [Loja Virtual](https://github.com/emersonedson07/loja-de-virtual) | Projeto de e-commerce básico | HTML, CSS, JS |
-| [Sabor Expresso](https://github.com/emersonedson07/sabor-expresso) | App CLI em Python para cadastro de restaurantes | Python |
-| [PWIA](https://github.com/emersonedson07/PWIA) | Exercícios de programação web | HTML, CSS, JS |
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📸 Visual ao vivo
+## 📂 Projetos em Destaque
 
-➡️ [Meu site portfólio (GitHub Pages)](https://emersonedson07.github.io/)  
-
+### 🧩 Pokédex  
+Aplicação web com consumo de API e exibição dinâmica de dados  
+🔗 https://emersonedson07.github.io/pokedex  
+💻 https://github.com/emersonedson07/pokedex  
 
 ---
 
-## 📊 Estatísticas GitHub
+### 🛍️ Loja Virtual  
+Projeto de e-commerce com foco em layout e experiência do usuário  
+🔗 https://emersonedson07.github.io/loja-virtual/  
+💻 https://github.com/emersonedson07/loja-virtual  
 
-<div align="center">
+---
+
+### 💃 Escola de Dança  
+Site institucional responsivo com identidade visual completa  
+🔗 https://emersonedson07.github.io/escola-de-danca  
+💻 https://github.com/emersonedson07/escola-de-danca  
+
+---
+
+### 🏢 ImobiTech  
+Sistema imobiliário com PHP e MySQL, com páginas dinâmicas e estrutura completa  
+💻 https://github.com/emersonedson07/imobitech  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emersonedson07&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonedson07&layout=compact&theme=tokyonight"/>
-</div>
+</p>
 
 ---
 
 ## 📬 Contato
 
 📧 emerson.edson07@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/emerson-edson-camargo-88b2aa103/)  
-📍 Bauru – SP
+📱 https://wa.me/5514996751963  
+🔗 https://www.linkedin.com/in/emersonedsoncamargo/  
+💻 https://github.com/emersonedson07  
+
+---
+
+<p align="center">
+  🚀 Em constante evolução na área de tecnologia
+</p>
